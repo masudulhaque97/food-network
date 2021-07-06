@@ -1,0 +1,41 @@
+body{
+    font-family: 'Zilla Slab', serif;
+   margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+
+body p{
+    font-weight: lighter;
+    color: gray;
+    font-size: 23px;
+}
+
+
+.green-color{
+    color: springgreen;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(springgreen,rgb(2, 46, 24) );
+    color: wheat;
+    font-weight: bold;
+    padding: 20px 40px;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 70%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
