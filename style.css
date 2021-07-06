@@ -39,3 +39,9 @@ body p{
 .half-width img{
     width: 90%;
 }
+
+.about-me{
+    background-image: url(images/female/Person\ Image.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
